@@ -16,10 +16,10 @@ Live link: https://project-newsportal.netlify.app
 
 In home page, news are arranged in lots of grid view.
 
-### headers are available in this template.
+### There are 2 headers are available in this template.
     ----> use class tg-header-1 or tg-header-2 in header tag.
     ----> This variation will shown in responsive mode (in 767px)
 
-### 2 search-bars are available in this template.
+### There are 2 search-bars are available in this template.
     ----> use class tg-search-1 or tg-search-2 in header tag.
     ----> This variation will shown in responsive mode (in 767px)
