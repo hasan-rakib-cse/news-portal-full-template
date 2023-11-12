@@ -2,7 +2,7 @@ Live link: https://project-newsportal.netlify.app
 
 ## Description
 
-###### --> This project contains some pages below:
+##### This project contains some pages below:
         1.	index.html (home-one)
         2.	blog-post-one.html
         3.	blog-post-two.html
@@ -16,8 +16,8 @@ Live link: https://project-newsportal.netlify.app
 
 In home page, news are arranged in lots of grid view.
 
-###### --> 2 headers are available in this template.
-          ----> use class tg-header-1 or tg-header-2 in header tag. This variation will shown in responsive mode (in 767px)
+##### headers are available in this template.
+    ----> use class tg-header-1 or tg-header-2 in header tag. This variation will shown in responsive mode (in 767px)
 
-###### --> 2 search-bars are available in this template.
-          ----> use class tg-search-1 or tg-search-2 in header tag. This variation will shown in responsive mode (in 767px)
+##### 2 search-bars are available in this template.
+    ----> use class tg-search-1 or tg-search-2 in header tag. This variation will shown in responsive mode (in 767px)
